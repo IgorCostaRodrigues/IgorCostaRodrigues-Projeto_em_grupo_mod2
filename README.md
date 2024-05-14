@@ -28,7 +28,7 @@ estratégicos para a empresa.
 
 Execute os scripts dentro do PgAdmin 4 na seguinte ordem:
 
-1. `CREATE-DATABASE`
+1. `CREATE-DATABASE` 
 2. `FUNCTION-TRIGGER`
 3. `INSERT-DATABASE-RESILIA`
 4. `SCRIPT-DAS-PERGUNTAS`
