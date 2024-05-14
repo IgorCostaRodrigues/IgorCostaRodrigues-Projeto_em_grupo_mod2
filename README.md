@@ -14,7 +14,7 @@
 
 ## Descrição do Projeto
 
-A Resilia (fictício) nos convocou para uma missão crucial: modernizar o processo de armazenamento e gerenciamento de dados do braço de ensino da empresa.
+A Resilia (fictício) nos convocou para uma missão crucial: modernizar o processo de armazenamento e gerenciamento de dados de ensino da empresa.
 
 Nossa missão? Transformar planilhas caóticas em um banco de dados poderoso e elegante, pronto para desvendar os segredos da educação e impulsionar a Resilia a novos patamares!
 
