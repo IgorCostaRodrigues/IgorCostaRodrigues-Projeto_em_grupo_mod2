@@ -58,7 +58,6 @@ Perguntas Respondidas:
 
 - [ brModelo 3.0](http://www.sis4.com/brModelo/download.html)
 - [MySQL Workbench](https://www.mysql.com/products/workbench/)
-- [PostgreSQL](https://www.postgresql.org/)
 - Bloco de Notas
 
 ## Pessoas Desenvolvedoras do Projeto
