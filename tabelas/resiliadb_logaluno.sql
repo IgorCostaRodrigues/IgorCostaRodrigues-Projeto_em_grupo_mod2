@@ -16,13 +16,13 @@
 /*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;
 
 --
--- Table structure for table `logaluno`
+-- Table structure for table `log_aluno`
 --
 
-DROP TABLE IF EXISTS `logaluno`;
+DROP TABLE IF EXISTS `log_aluno`;
 /*!40101 SET @saved_cs_client     = @@character_set_client */;
 /*!50503 SET character_set_client = utf8mb4 */;
-CREATE TABLE `logaluno` (
+CREATE TABLE `log_aluno` (
   `id_log` int(11) NOT NULL AUTO_INCREMENT,
   `id_aluno` int(11) DEFAULT NULL,
   `status_anterior` varchar(20) DEFAULT NULL,
@@ -30,17 +30,17 @@ CREATE TABLE `logaluno` (
   `data_atualizacao` datetime DEFAULT NULL,
   PRIMARY KEY (`id_log`),
   KEY `id_aluno` (`id_aluno`),
-  CONSTRAINT `logaluno_ibfk_1` FOREIGN KEY (`id_aluno`) REFERENCES `aluno` (`id_aluno`)
+  CONSTRAINT `log_aluno_ibfk_1` FOREIGN KEY (`id_aluno`) REFERENCES `aluno` (`id_aluno`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
--- Dumping data for table `logaluno`
+-- Dumping data for table `log_aluno`
 --
 
-LOCK TABLES `logaluno` WRITE;
-/*!40000 ALTER TABLE `logaluno` DISABLE KEYS */;
-/*!40000 ALTER TABLE `logaluno` ENABLE KEYS */;
+LOCK TABLES `log_aluno` WRITE;
+/*!40000 ALTER TABLE `log_aluno` DISABLE KEYS */;
+/*!40000 ALTER TABLE `log_aluno` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
 
