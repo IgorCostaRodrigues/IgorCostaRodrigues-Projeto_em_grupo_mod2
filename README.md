@@ -38,8 +38,6 @@ Execute os scripts dentro do PgAdmin 4 na seguinte ordem:
 O modelo de dados possui as seguintes entidades:
 
 - `tb_aluno`
-- `tb_status`
-- `tb_matricula`
 - `tb_turma`
 - `tb_curso`
 - `tb_modulo`
@@ -56,7 +54,7 @@ Perguntas Respondidas:
 
 ## Tecnologias Utilizadas
 
-- [ brModelo 3.0](http://www.sis4.com/brModelo/download.html)
+- [brModelo 3.0](http://www.sis4.com/brModelo/download.html)
 - [MySQL Workbench](https://www.mysql.com/products/workbench/)
 - Bloco de Notas
 
