@@ -57,7 +57,7 @@ Para executar o sistema, siga as instruções abaixo:
 
 ## Pessoas Desenvolvedoras do Projeto 👨‍💻
 
-- Luis Guilherme
-- Igor Costa
-- Patrick Fortunato
+- **[Luis Guilherme](https://github.com/Guippacheco)** <br>
+- **[Igor Costa](https://github.com/IgorCostaRodrigues)** <br>
+- **[Patrick Fortunato](https://github.com/PatrickvFortunato)** 
 
